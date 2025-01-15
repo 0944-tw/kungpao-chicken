@@ -1,15 +1,7 @@
-flying-squid
+Kungpao Chicken
 ================
 
-[![NPM version](https://img.shields.io/npm/v/flying-squid.svg)](http://npmjs.com/package/flying-squid)
-[![Build Status](https://github.com/PrismarineJS/flying-squid/workflows/CI/badge.svg)](https://github.com/PrismarineJS/flying-squid/actions?query=workflow%3A%22CI%22)
-[![Discord](https://img.shields.io/badge/chat-on%20discord-brightgreen.svg)](https://discord.gg/GsEFRM8)
-[![Gitter](https://img.shields.io/badge/chat-on%20gitter-brightgreen.svg)](https://gitter.im/PrismarineJS/general)
-[![Irc](https://img.shields.io/badge/chat-on%20irc-brightgreen.svg)](https://irc.gitter.im/)
-
-
-Create Minecraft servers with a powerful, stable, and high level JavaScript API.
-
+Based on [flying-squid](https://github.com/PrismarineJS/flying-squid). More info about KungpaoChickenMC at README.zh_tw.md
 ## Features
 * Support for Minecraft 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20, 1.21
 * Players can see the world
